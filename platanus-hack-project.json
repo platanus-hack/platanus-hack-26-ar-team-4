@@ -1,5 +1,5 @@
 {
-  "project-name": "<FILL THIS>",
-  "project-oneliner-spanish": "<FILL THIS>",
-  "project-description-spanish": "<FILL THIS>"
+  "project-name": "VaultMind",
+  "project-oneliner-spanish": "El agente que gestiona tu bóveda bajo reglas on-chain inmutables.,
+  "project-description-spanish": "VaultMind es un agente autónomo diseñado para gestionar un vault de trading bajo reglas definidas desde el inicio e inmutables en blockchain. Analiza sentimiento de mercado, señales de precio y contexto general para decidir cuándo comprar, vender o mantener posiciones. El capital permanece dentro de un smart contract que limita sus acciones, valida cada operación y bloquea los retiros hasta alcanzar el umbral configurado por el usuario. Puede tomar decisiones, pero nunca salirse de las condiciones establecidas."
 }
